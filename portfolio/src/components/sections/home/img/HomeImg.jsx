@@ -4,8 +4,8 @@ export default function HomeImg() {
       <svg
         class="home__blob"
         viewBox="0 0 200 187"
-        // xmlns="http://www.w3.org/2000/svg"
-        // xmlns:xlink="http://www.w3.org/1999/xlink"
+        xmlns="http://www.w3.org/2000/svg"
+        xlink="http://www.w3.org/1999/xlink"
       >
         <mask id="mask0" mask-type="alpha">
           <path
@@ -25,7 +25,7 @@ export default function HomeImg() {
           <image
             class="home__blob-img"
             x="0"
-            // xlink:href="public/assets/img/froilan.jpg"
+            href="assets/img/froilan.jpg"
           />
         </g>
       </svg>

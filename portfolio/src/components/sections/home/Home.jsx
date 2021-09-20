@@ -6,13 +6,15 @@ import HomeScroll from "./scroll/HomeScroll"
 
 export default function Home() {
     return (
-        <section className="home section" id="home">
-            <div className="home__container container grid">
-                <HomeSocial />
-                {/* <HomeImg /> */}
-                <HomeData />
-                <HomeScroll />
-            </div>
-        </section>
-    )
+      <section className="home section" id="home">
+        <div className="home__container container grid">
+          <div className="home__content grid">
+            <HomeSocial />
+            <HomeImg />
+            <HomeData />
+          </div>
+          <HomeScroll />
+        </div>
+      </section>
+    );
 }
