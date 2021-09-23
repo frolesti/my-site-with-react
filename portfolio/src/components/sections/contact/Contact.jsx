@@ -31,7 +31,7 @@ export default function Contact() {
 
                         <div>
                             <h3 class="contact__title">Location</h3>
-                            <span class="contact__subtitle">Barcelona, Spain</span>
+                            <span class="contact__subtitle">Terrassa (Barcelona), Spain</span>
                         </div>
                         
                     </div>
