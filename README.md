@@ -84,8 +84,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<br />
 
-[![My Site With React Screen Shot][product-screenshot]]<img src="portfolio/public/assets/img/froilan_olesti.png" alt="Project preview" width="auto" height="auto">
+<img src="portfolio/public/assets/img/froilan_olesti.png" alt="Project preview" width="auto" height="auto">
 
 
 ### Built With
