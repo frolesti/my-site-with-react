@@ -65,19 +65,19 @@ export default function Services() {
                             <ul class="services__modal-services grid">
                                 <li class="services__modal-service">
                                     <i class="uil uil-check-circle services__modal-icon"></i>
-                                    <p>I develop user interface</p>
+                                    <p>Optimizing the user experience</p>
                                 </li>
                                 <li class="services__modal-service">
                                     <i class="uil uil-check-circle services__modal-icon"></i>
-                                    <p>Web page development</p>
+                                    <p>Developing and mantaining the user interface</p>
                                 </li>
                                 <li class="services__modal-service">
                                     <i class="uil uil-check-circle services__modal-icon"></i>
-                                    <p>I create UX interactions</p>
+                                    <p>Creating tools that improve site interaction regardless of the browser</p>
                                 </li>
                                 <li class="services__modal-service">
                                     <i class="uil uil-check-circle services__modal-icon"></i>
-                                    <p>I position your company brand</p>
+                                    <p>Managing software workflow</p>
                                 </li>
                             </ul>
                         </div>
@@ -87,7 +87,7 @@ export default function Services() {
                 <div class="services__content">
                     <div>
                         <i class="uil uil-pen services__icon"></i>
-                        <h3 class="services__title">UI/UX <br /> Designer </h3>
+                        <h3 class="services__title">Backend <br /> Developer </h3>
                     </div>
 
                     <span class="button button--flex button--small button--link services__button">
@@ -97,25 +97,25 @@ export default function Services() {
 
                     <div class="services__modal">
                         <div class="services__modal-content">
-                            <h4 class="services__modal-title"> Branding <br /> Designer </h4>
+                            <h4 class="services__modal-title"> Backend <br /> Developer </h4>
                             <i class="uil uil-times services__modal-close"></i>
 
                             <ul class="services__modal-services grid">
                                 <li class="services__modal-service">
                                     <i class="uil uil-check-circle services__modal-icon"></i>
-                                    <p>I develop user interface</p>
+                                    <p>Building high-quality reusable code that can be used in the future</p>
                                 </li>
                                 <li class="services__modal-service">
                                     <i class="uil uil-check-circle services__modal-icon"></i>
-                                    <p>Web page development</p>
+                                    <p>Database implementation and control</p>
                                 </li>
                                 <li class="services__modal-service">
                                     <i class="uil uil-check-circle services__modal-icon"></i>
-                                    <p>I create UX interactions</p>
+                                    <p>Conduct UI tests and optimize performance</p>
                                 </li>
                                 <li class="services__modal-service">
                                     <i class="uil uil-check-circle services__modal-icon"></i>
-                                    <p>I position your company brand</p>
+                                    <p>Troubleshoot and debug applications</p>
                                 </li>
                             </ul>
                         </div>
