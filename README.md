@@ -162,7 +162,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@frolesti](https://twitter.com/frolesti) - frolesti4@gmail.com
+Froilán Olesti Casas - [@frolesti](https://twitter.com/frolesti) - frolesti4@gmail.com
 
 Project Link: [https://github.com/frolesti/my-site-with-react](https://github.com/frolesti/my-site-with-react)
 
