@@ -13,7 +13,7 @@ export default function Contact() {
 
                         <div>
                             <h3 class="contact__title">Call Me</h3>
-                            <span class="contact__subtitle">999-777-666</span>
+                            <span class="contact__subtitle">670 775 909</span>
                         </div>
 
                     </div>

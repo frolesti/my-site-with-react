@@ -7,7 +7,7 @@ export default function Footer() {
           <div class="footer__container container grid">
             <div>
               <h1 class="footer__title">Froilán</h1>
-              <span class="footer__subtitle">Frontend developer</span>
+              <span class="footer__subtitle">Full-Stack Developer</span>
             </div>
 
             <ul class="footer__links">
